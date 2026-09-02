@@ -1,51 +1,71 @@
-# Energy Bands
+# Energy Bands in Semiconductors
 
-## Prerequisites
+## 1. Prerequisites
+
 - Atomic structure
-- Quantum physics
+- Quantum mechanics
 - Solid state physics
+- Crystal structures
 
-## Concept
-In solids, individual atomic energy levels combine to form energy bands.
+## 2. Introduction
 
-Important bands:
+In isolated atoms, electrons occupy discrete energy levels. When atoms form a crystal lattice, these levels combine and create energy bands.
 
-- Valence band
-- Conduction band
-- Forbidden energy gap
+## 3. Important Energy Bands
 
-## Band Gap
+### Valence Band
 
-Band gap determines semiconductor behavior.
+The highest energy band filled with electrons at absolute zero temperature.
 
-Examples:
+### Conduction Band
 
-Silicon:
-- Band gap approximately 1.12 eV
+The energy band where free electrons contribute to electrical conduction.
 
-Gallium Nitride:
-- Wide band gap semiconductor
+### Forbidden Energy Gap (Band Gap)
 
-## Importance
-Band structure determines:
+The energy difference between valence band and conduction band.
 
-- Conductivity
+## 4. Band Gap Importance
+
+Band gap determines:
+
+- Electrical conductivity
 - Optical properties
-- Temperature behavior
-- Device applications
+- Operating temperature
+- Semiconductor applications
 
-## Applications
+## 5. Material Examples
 
-Used in:
+### Silicon (Si)
 
-- Transistors
+- Band gap: approximately 1.12 eV
+- Foundation of CMOS technology
+
+### Gallium Nitride (GaN)
+
+- Wide band gap
+- Used in power electronics and RF devices
+
+### Silicon Carbide (SiC)
+
+- Wide band gap
+- Used in high voltage and automotive power systems
+
+## 6. Industry Applications
+
+Energy band engineering enables:
+
+- CPUs
+- GPUs
 - LEDs
 - Solar cells
-- Power electronics
+- Power MOSFETs
+- RF devices
 
-## Related Topics
+## 7. Related Topics
 
 - Fermi level
 - Doping
 - Carrier concentration
 - PN junction
+- MOSFET operation
